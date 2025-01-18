@@ -1,4 +1,8 @@
 /* Основни стилове */
+a {
+  color: hotpink;
+}
+
 body {
   font-family: Arial, sans-serif;
   background-color: #2E2E2E;
